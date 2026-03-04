@@ -1,0 +1,28 @@
+{
+  "objects": [
+    {
+      "objectType": "User",
+      "attributes": {
+        "Name": "Test2026, ",
+        "DisplayName": "XXXXXXXX Test2026",
+        "Mail": "XXXXXXXX.Test2026@XXXXXXXX.org",
+        "UserPrincipalName": "XXXXXXXX.Test2026@XXXXXXXX.org",
+        "ExtensionAttribute2": "Pakistan",
+        "ExtensionAttribute10": "Asia",
+        "Action": "GlobalStaff,Create"
+      }
+    },
+    {
+      "objectType": "User",
+      "attributes": {
+        "Name": "RTEST2026, XXXXXXXX",
+        "DisplayName": "XXXXXXXX, RTest2026",
+        "Mail": "RTest2026.XXXXXXXX@XXXXXXXX.org",
+        "UserPrincipalName": "RTest2026.XXXXXXXX@XXXXXXXX.org",
+        "ExtensionAttribute2": "United Kingdom",
+        "ExtensionAttribute10": "Asia",
+        "Action": "Create"
+      }
+    }
+  ]
+}
